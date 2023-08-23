@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind button;
+
+
+.p-2:hover svg path {
+    stroke: white; /* Change the stroke color to white on hover */
+  }
